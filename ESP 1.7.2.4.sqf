@@ -1,4 +1,4 @@
-//<-----------------MPGH--Jack-NorriS--EDITED---------------->
+//<-----------------FUCKYAR---------------->
 
 //<-----GLOBAL-VARIABLE----->
 marker_mapesp = true;
